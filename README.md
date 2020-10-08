@@ -23,3 +23,5 @@
 * To run all test in command line use - mvn clean test -Dcucumber.options="--tags @test"
 
 * All possible profiles are listed under pom.xml.
+
+https://github.com/adeLanipekun46/Ade-Lanipekun-NHSBSA/issues/1#issue-717456968
