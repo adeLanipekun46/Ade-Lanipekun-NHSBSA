@@ -4,10 +4,10 @@
 
 # Framework used:
 
-#Cucumber
+* Cucumber
 
-#Junit
+* Junit
 
-#Java
+* Java
 
-#Selenium
+* Selenium
