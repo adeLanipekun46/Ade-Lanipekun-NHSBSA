@@ -11,3 +11,7 @@
 * Java
 
 * Selenium
+
+# Running tests:
+
+# Test will run with Chrome set as default browser To run test using firefox browser change browserName to Firefox on DriveHook class
