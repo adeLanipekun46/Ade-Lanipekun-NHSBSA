@@ -24,5 +24,8 @@
 
 * All possible profiles are listed under pom.xml.
 
-Screenshot Of Test 1
+Screenshot Of Test Pass form command line
 ![Image 1](https://user-images.githubusercontent.com/70921075/95481780-481b9680-0985-11eb-9e66-0fa2ae5704d9.jpeg)
+
+Screeenshot of Test Pass from Cucumber Option
+![Image 2](https://user-images.githubusercontent.com/70921075/95481863-67b2bf00-0985-11eb-82f8-8ac0a9d5fb50.jpeg)
